@@ -1,0 +1,1 @@
+The final project for the React Basics course in the Meta Front-End Developer Professional Certificate program. I'll add new features and make it more robust eventually. 
